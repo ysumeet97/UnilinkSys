@@ -1,0 +1,13 @@
+--------------------START OF POSTS LIST---------------------
+EVE002::Marriage::Marriage Ceremony::S2::OPEN::Images/marriage.jpg::Gardens::02/05/2020::100::0
+EVE003::carwash::carwasjh::S5::OPEN::../../Images/event.jpg::rmit::12/03/2020::20::0
+JOB001::Painting::Paint a new House::S3::OPEN::Images/painting.jpg::15623.0::1200.0
+JOB002::Cleaning::Cleaning a new House::S4::OPEN::Images/cleaning.jpg::25300.0::25300.0
+SAL001::Laptop::Laptop for Sale::S5::CLOSED::Images/laptop.jpg::25000.0::1000.0::15000.0
+SAL002::Guitar::Guitar for Sale::S6::OPEN::Images/guitar.jpg::15000.0::235.0::0.0
+----------------------END OF POSTS LIST---------------------
+
+--------------------START OF REPLY LIST---------------------
+JOB001::1200.0::S1
+SAL001::15000.0::S3
+----------------------END OF REPLY LIST---------------------
